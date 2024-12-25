@@ -1,0 +1,64 @@
+!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merry Christmas！</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #ff4d4d;
+            padding: 20px;
+            color: white;
+            font-size: 36px;
+            border-bottom: 4px solid #ff1a1a;
+        }
+        .content {
+            padding: 50px;
+            background-color: #fff;
+        }
+        .footer {
+            background-color: #ff4d4d;
+            padding: 10px;
+            color: white;
+            font-size: 18px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .message {
+            font-size: 24px;
+            color: #333;
+            margin-top: 20px;
+        }
+        .decorations {
+            margin-top: 20px;
+            font-size: 50px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        Merry Christmas！
+    </div>
+
+    <div class="content">
+        <p class="message">Dear friend, I wish you a merry Christmas and wish you happiness, warmth and full love! ,.</p>
+        <div class="decorations">
+            🎄🎅🏻✨
+        </div>
+    </div>
+
+    <div class="footer">
+        Your good friend mmchobi  Joon
+    </div>
+
+</body>
+</html>
